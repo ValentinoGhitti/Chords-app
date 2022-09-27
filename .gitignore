@@ -2,7 +2,7 @@
 node_modules
 *jounalApi
 /dist
-
+api
 src/api/jounalApi/*
 
 # local env files
