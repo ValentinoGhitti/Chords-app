@@ -1,4 +1,4 @@
-# agenda-app
+# Chords app
 
 ## Project setup
 ```
