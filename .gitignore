@@ -3,7 +3,7 @@ node_modules
 *jounalApi
 /dist
 
-/api
+/api/
 
 # local env files
 .env.local
